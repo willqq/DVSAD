@@ -1,6 +1,6 @@
-DVSAD
+## DVSAD
 
-## About the repository
+## About the repository
 
 This repository contains the source code of Dual-View Sensor Anomaly Detection (DVSAD), which is an unsupervised method based on multi-view latent variable modeling. This method captures spatio-temporal dependencies in multivariate sensor data by integrating the dual perspectives of sensor relationship graphs and time series patterns. In addition, diffusion-based noise perturbations and physics priors are also integrated for ensuring better anomaly detection/prediction performance.
 
